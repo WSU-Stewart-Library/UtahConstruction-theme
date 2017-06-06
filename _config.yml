@@ -2,7 +2,7 @@
 title: Weber State University
 subtitle: Stewart Library
 email: specialcollections@weber.edu
-description: Preserving Memories
+description: Preserving The Memories
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
@@ -34,3 +34,4 @@ markdown: kramdown
 
 sass:
   style: compressed
+

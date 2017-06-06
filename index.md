@@ -7,4 +7,4 @@ image: null
 author: null
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+The history of the Utah Construction Company and its successors is an American success story that stretches from its simple beginnings laying rail lines across the West to its role in creating some of the most monumental structures of the 20th century. From its founding in Ogden, Utah, in 1900 until 1976 when Utah International and General Electric negotiated the largest corporate merger in the United States to that time, Utah Construction transformed lives worldwide through the vision of its founders.

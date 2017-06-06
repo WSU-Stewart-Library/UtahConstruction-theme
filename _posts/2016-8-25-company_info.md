@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Company Information
-description: Utah Construction
-image: /assets/images/pic01.jpg
+description: Utah Construction Company
+image: assets/images/pic01.jpg
+name: normalPost
 ---
-
-Company Information
 
 The Utah Construction Company was organized in Ogden, Utah, in 1900. The Articles of Incorporation list Thomas D. Dee as president and a principal stockholder, along with David Eccles, Edmund Orson Wattis, Warren L. Wattis, William H. Wattis, and Marie D. Wattis.
 
