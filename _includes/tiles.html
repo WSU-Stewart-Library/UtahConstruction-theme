@@ -12,7 +12,6 @@
         </article>
         {% endif %}
 
-
         {% if post.name == 'digitalLink' %}
         <article>
                 <span class="image">
@@ -31,11 +30,24 @@
                         <img src="{{ post.image }}" alt="" />
                 </span>
                 <header class="major">
-                        <h3><a href="http://cdm.weber.edu/cdm/search/collection/UCUI!UCUIPHOTO!UCUISYM!ERL!MIN!ED!FEATHER2!HJLAW!MEX2!LEDGER!GE/order/title/ad/asc" class="link">{{ post.title }}</a></h3>
+                        <h3><a href="https://dc.weber.edu/taxonomy/term/46" class="link">{{ post.title }}</a></h3>
                         <p>{{ post.description }}</p>
                 </header>
         </article>
         {% endif %}
+
+        {% if post.name == 'symposiaPost' %}
+        <article>
+                <span class="image">
+                        <img src="{{ post.image }}" alt="" />
+                </span>
+                <header class="major">
+                        <h3><a href="/symposia.html" class="link">{{ post.title }}</a></h3>
+                        <p>{{ post.description }}</p>
+                </header>
+        </article>
+        {% endif %}
+
         {% endfor %}
 
         {% for page in site.pages limit:site.tiles-count %}
@@ -51,7 +63,6 @@
         </article>
         {% endif %}
         {% endfor %}
-
 </section>
 
 
